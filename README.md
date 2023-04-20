@@ -40,10 +40,12 @@ You can also modify a Fraction object by incrementing or decrementing it, or by 
     f1.updateValue(5);
 
 To print the value of a Fraction object, you can use the << operator. For example:
+
     // Printing the value of a fraction
     std::cout << f1 << std::endl;
 
 To input a value for a Fraction object, you can use the >> operator. For example:
+
     // Inputting a value for a fraction
     std::cin >> f1;
 
